@@ -1,2 +1,3 @@
 /__pycache__
 ENV_CONFIG.env
+__pycache__/
